@@ -6,7 +6,7 @@ import Navbar from "@/components/navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Team Task Manager",
+  title: "Team Task Manager App",
   description: "Role-based project management app",
 };
 
