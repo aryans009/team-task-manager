@@ -11,7 +11,7 @@ pnpm dev
 bun dev
 ```
 #Team Task Manager
-A full-stack Role-Based Access Control (RBAC) task management application built within a 5-hour constraint.
+A full-stack Role-Based Access Control (RBAC) task management application.
 
 #Live Demo
 https://team-task-manager-production-2285.up.railway.app/
@@ -36,3 +36,13 @@ https://team-task-manager-production-2285.up.railway.app/
 2. Run `npm install`
 3. Create a `.env.local` file with `MONGODB_URI`, `NEXTAUTH_SECRET`, and `NEXTAUTH_URL=http://localhost:3000`.
 4. Run `npm run dev`.
+
+#Login credentials for checking Admin account
+user - admin@test.com
+password - Admin
+
+#Login credentials for checking member account
+user - varunji@gmail.com
+password - 12345678
+
+# Either check by these credentials or you can signup by creating your account
